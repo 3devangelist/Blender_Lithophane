@@ -1,4 +1,4 @@
-# Blender_Lithophane
+# Blender HQ Lithophane
 
 ## How to use
 
