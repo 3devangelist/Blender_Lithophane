@@ -16,4 +16,4 @@ Open the file “LITHOPHANE.blend” and your image should appear on the 3d mode
 
 ![image 4](images_md/Export.png)
 
-**I hope that you enjoyed the file, and printed craisy lithophanes!**
+**I hope that you enjoyed the file, and print craisy lithophanes!**
